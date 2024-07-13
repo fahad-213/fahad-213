@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fahad-213
+- 👋 Hi, I’m Fahad
 - 👀 I’m interested in Data analytics 
 - 🌱 I’m currently learning Bussiness Analytics at BU
 - 📫 Feel free to reach me at Al-subaie.f@hotmail.com
